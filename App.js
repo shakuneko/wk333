@@ -14,7 +14,10 @@ const App = () => {
       <Header />
       <Album />
       <Bottom />
+      <Black />
+      <Drawer  />
       
+
     </View>
   );
 };
